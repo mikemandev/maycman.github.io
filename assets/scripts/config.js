@@ -13,7 +13,7 @@ particlesJS('particles-js', {
       }
     },
     "color": {
-      "value": "#ffffff"
+      "value": "#000000"
     },
     "shape": {
       "type": "circle",
@@ -73,7 +73,7 @@ particlesJS('particles-js', {
     }
   },
   "interactivity": {
-    "detect_on": "window",
+    "detect_on": "canvas",
     "events": {
       "onhover": {
         "enable": false,
