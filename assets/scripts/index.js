@@ -1,3 +1,3 @@
-$(document).ready(funcion(){
+$(document).ready(function(){
 	alert("huevos");
 });
