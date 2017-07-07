@@ -1,4 +1,4 @@
 $(document).ready(function()
 {
-	particlesJS();
+	particlesJS("snowfall", '/assets/content/config.json');
 });
