@@ -1,3 +1,4 @@
-$(document).ready(function(){
-	alert("huevos");
+$(document).ready(function()
+{
+	particlesJS();
 });
