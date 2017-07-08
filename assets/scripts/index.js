@@ -1,4 +1,10 @@
 $(document).ready(function()
 {
 	//particlesJS();
+	$('.navbar-toggle').click(function(){
+        $('.navbar-toggle').toggleClass('navbar-on');
+        $('nav').fadeToggle();
+        $('nav').removeClass('nav-hide');
+        $('#close_menu').toggleClass('show_close_menu');
+    });
 });
