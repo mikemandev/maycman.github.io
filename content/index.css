@@ -7,9 +7,15 @@ html, body
     background: #F3F3F3; /*#131313;*/
     color: fff;
 }
-.noLink:link
+.social-link
 {
-    text-decoration: none;
+    border: none;
+    padding: 0;
+    background: none;
+}
+.social-link :hover
+{
+    transform: scale(1.5);
 }
 .jump
 {
