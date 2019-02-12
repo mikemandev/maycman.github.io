@@ -15,6 +15,10 @@ html, body
 }
 .social-link :hover
 {
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -o-transform: scale(1.5);
     transform: scale(1.5);
 }
 .jump
