@@ -10,6 +10,6 @@ var bLinkedIn = document.getElementById("linkedin");
 var bGitHub = document.getElementById("github");
 
 bTwitter.addEventListener('click', function(){ window.open('https://twitter.com/maycman/'); });
-bInstagram.addEventListener('click', function(){ window.open('https://www.instagram.com/maycmanv/'); });
+bInstagram.addEventListener('click', function(){ window.open('https://www.instagram.com/maycman_/'); });
 bLinkedIn.addEventListener('click', function(){ window.open('https://www.linkedin.com/in/maycman/'); });
 bGitHub.addEventListener('click', function(){ window.open('https://github.com/maycman/'); });
